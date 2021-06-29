@@ -1,0 +1,1 @@
+This program uses user input to select one of two csv files. Based on the selection, the program will then read and analyze a file. It will then output the file's information and create histograms based on the data.
